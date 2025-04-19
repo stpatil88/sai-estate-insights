@@ -9,7 +9,7 @@ const testimonials = [
     name: 'Rajesh Sharma',
     location: 'Kolhapur',
     image: 'https://randomuser.me/api/portraits/men/41.jpg',
-    text: 'Shree Sai Consultancy provided exceptional service in helping us find our dream home. Somil's knowledge of the local market was invaluable, and his attention to our specific needs made the process smooth and stress-free.',
+    text: "Shree Sai Consultancy provided exceptional service in helping us find our dream home. Somil's knowledge of the local market was invaluable, and his attention to our specific needs made the process smooth and stress-free.",
     rating: 5,
   },
   {
@@ -17,7 +17,7 @@ const testimonials = [
     name: 'Priya Desai',
     location: 'Pune',
     image: 'https://randomuser.me/api/portraits/women/44.jpg',
-    text: 'As an investor looking for commercial properties in Kolhapur, I found Shree Sai Consultancy to be extremely professional and insightful. Their analysis helped me make a confident decision on my investment.',
+    text: "As an investor looking for commercial properties in Kolhapur, I found Shree Sai Consultancy to be extremely professional and insightful. Their analysis helped me make a confident decision on my investment.",
     rating: 5,
   },
   {
@@ -25,7 +25,7 @@ const testimonials = [
     name: 'Amit Patil',
     location: 'Kolhapur',
     image: 'https://randomuser.me/api/portraits/men/32.jpg',
-    text: 'We were first-time home buyers and quite nervous about the process. Somil guided us through every step with patience and expertise. His negotiation skills helped us get a great deal on our new home.',
+    text: "We were first-time home buyers and quite nervous about the process. Somil guided us through every step with patience and expertise. His negotiation skills helped us get a great deal on our new home.",
     rating: 5,
   },
   {
@@ -33,7 +33,7 @@ const testimonials = [
     name: 'Neha Kulkarni',
     location: 'Mumbai',
     image: 'https://randomuser.me/api/portraits/women/66.jpg',
-    text: 'Looking for property in Kolhapur while living in Mumbai seemed daunting, but Shree Sai Consultancy made it incredibly easy. Their virtual tours and detailed reports helped me make informed decisions remotely.',
+    text: "Looking for property in Kolhapur while living in Mumbai seemed daunting, but Shree Sai Consultancy made it incredibly easy. Their virtual tours and detailed reports helped me make informed decisions remotely.",
     rating: 5,
   },
 ];
